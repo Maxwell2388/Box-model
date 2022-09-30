@@ -1,0 +1,24 @@
+.Sail {
+    background-color: blueviolet;
+    padding: 50px;
+    border: 5px solid yellow;
+    margin: 80px;
+
+}
+
+small {
+    color: red;
+    background-color: green;
+    padding: 30px;
+    border: 5px solid yellow;
+    margin: 50px;
+
+}
+
+img {
+    padding: 30px;
+    background: gold;
+    border: 3px dotted gray;
+    margin: 40px;
+    
+}
